@@ -1,0 +1,25 @@
+{
+  "name": "@orderfox/eslint-config-backend",
+  "version": "0.0.1",
+  "private": false,
+  "description": "All eslint configuraitons for orderfox BE in here.",
+  "main": "index.js",
+  "homepage": "https://github.com/orderfox/eslint-config-backend",
+  "repository": {
+    "url": "https://github.com/orderfox/eslint-config-backend",
+    "type": "git"
+  },
+  "keywords": [
+    "npm",
+    "airbnb",
+    "eslint",
+    "lint"
+  ],
+  "author": "GrigoreMe",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "10.1.0",
+    "eslint": "7.21.0",
+    "eslint-config-airbnb-base": "^14.2.0"
+  }
+}
