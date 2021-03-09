@@ -17,7 +17,6 @@ module.exports = {
     eqeqeq: 'error',
     strict: 'off',
     'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off',
-    // 'import/no-dynamic-require': 0,
     'linebreak-style': 0,
     'no-underscore-dangle': 'off',
     'prefer-destructuring': 'off',
